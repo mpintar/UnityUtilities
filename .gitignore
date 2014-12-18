@@ -13,8 +13,12 @@
 *.pidb
 *.booproj
 
+/Assets/UnityTestTools
+/Assets/UnityTestTools.meta
 /Assets/UnityVS
 /Assets/UnityVS.meta
+/Assets/Utilities/Tests
+/Assets/Utilities/Tests.meta
 
 # Unity3D Generated File On Crash Reports
 sysinfo.txt
